@@ -50,7 +50,8 @@ Each model was assessed using RMSE, and only models with RMSE ≤ 450 kW were co
 
 A side-by-side plot comparing actual and predicted daily power consumption for the test set.
 
-![power consumption prediction](your_plot_image.png) <!-- Replace with actual image path if uploading -->
+![power consumption prediction](![image](https://github.com/user-attachments/assets/58e53d37-56cc-4013-9067-e24115950b4f)
+) <!-- Replace with actual image path if uploading -->
 
 ---
 
